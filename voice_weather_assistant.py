@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, time as dtime
 # CONFIG
 # ==================
 
-API_KEY = "1651b8315a7c33a5b6d901fc050504a5"  # Your OpenWeatherMap API KEY
+API_KEY = "YOUR_API_KEY_HERE"  # Your OpenWeatherMap API KEY
 DEFAULT_COUNTRY = ""  # You can change this or set to "" to not force a country
 UNITS = "metric"  # "metric" for Celsius, "imperial" for Fahrenheit
 LANG = "en"  # "en" for English
